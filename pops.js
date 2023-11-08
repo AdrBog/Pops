@@ -66,7 +66,7 @@ class Pops {
                     button.addEventListener("click", (e) => {
                         const r = {};
                         
-                        for (const input of div.querySelectorAll("input, select"))
+                        for (const input of div.querySelectorAll("input, select, textarea"))
                             r[input.getAttribute("Property")] = input.value;
 
                         div.remove();

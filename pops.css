@@ -51,7 +51,7 @@
     color: var(--normal-fg-color);
 }
 
-.pops-themes-default input, .pops-themes-default select {
+.pops-themes-default input, .pops-themes-default select, .pops-themes-default textarea {
     width: 100%;
     box-sizing: border-box;
     padding: 6px;
