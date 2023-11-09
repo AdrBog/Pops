@@ -18,6 +18,7 @@
     - [Custom pop-up](#custom-pop-up)
     - [Form](#form-using-custom-function)
 - [Customize your pop-ups](#customize-your-pop-ups)
+- [Actual example of Pops use](#actual-example-of-pops-use)
 
 ## Setup
 In your HTML code insert the following stylesheet and javascript tags.
@@ -315,3 +316,10 @@ const POP = new Pops("custom-class");
 Result:
 
 ![](res/img7.png)
+
+## Actual example of Pops use
+I am using Pops to facilitate pop-up management in my applications:
+- [Libre Lists](https://github.com/AdrBog/LibreLists)
+- [Other Apps](https://github.com/AdrBog/OtherApps) (In the future)
+
+All pop-up windows you will see in Libre Lists will be one created by Pops.
