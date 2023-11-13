@@ -320,6 +320,6 @@ Result:
 ## Actual example of Pops use
 I am using Pops to facilitate pop-up management in my applications:
 - [Libre Lists](https://github.com/AdrBog/LibreLists)
-- [Other Apps](https://github.com/AdrBog/OtherApps) (In the future)
+- [Other Apps](https://github.com/AdrBog/OtherApps)
 
 All pop-up windows you will see in Libre Lists will be one created by Pops.
